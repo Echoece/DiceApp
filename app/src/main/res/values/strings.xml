@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DiceAppNew</string>
+    <string name="button">Roll The Dice</string>
+    <string name="image_content">the top image</string>
+</resources>
